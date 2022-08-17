@@ -3,17 +3,17 @@ pageClass: home-page
 # some data for the components
 
 name: Zhaopeng Qiu
-profile: /profile.jpg
+profile: /profile.PNG
 
 socials:
   - title: github
     icon: "/icons/github.svg"
     link: https://github.com/zpqiu
   - title: google scholar
-    icon: "/icons/google-scholar.svg"
+    icon: "/icons/google-scholar2.svg"
     link: https://scholar.google.com/citations?user=xxDgpBYAAAAJ&hl=zh-CN
 
-cv: https://en.wikipedia.org/wiki/Harry_Potter
+# cv: https://en.wikipedia.org/wiki/Harry_Potter
 bio: Researcher at Tencent Jarvis Lab
 email: zhaopengqiu (at) tencent (dot) com
 ---
@@ -22,9 +22,7 @@ email: zhaopengqiu (at) tencent (dot) com
 
 ## About Me
 
-I attended [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org/wiki/Hogwarts) to study witchcraft, supervised by **Dumbledore** and other professors. 
-
-I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
+I am Zhaopeng Qiu (邱昭鹏), a Senior Researcher in [Jarvis Lab](https://jarvislab.tencent.com/) of Tencent. I obtained Master in Computer Software and Theory from Peking University in 2018, under supervision of Prof. Yasha Wang. Before that, I obtained B.Sc in Software Engineering from Beihang University (BUAA) in 2014. My research works are focused on recommendation, NLP, and medical data mining.
 
 
 <!-- ## News
@@ -33,21 +31,29 @@ I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fe
 - [July 1980] Born in Godric's Hollow, West Country, England, Great Britain -->
 
 
-## Education & Experiences
-
-- **Tencet Jarvis Lab** <br/>
-July 2018 - Now
+## Education
 
 - **Peking University** <br/>
-2015 - 2018
+2015 - 2018, Software Engineering Institute, School of Electronics Engineering and Computer Science
 
 - **Beihang University (BUAA)** <br/>
-2010 - 2014
+2010 - 2014, College of Software
+
+## Work Experiences
+
+- **Tencent** <br/>
+Jul. 2018 - Present, Senior Researcher @ Tencent Jarvis Lab
+
+- **Microsoft** <br/>
+Apr. 2017 - Oct. 2017, Intern @ XiaoIce Team
+
+- **Alibaba** <br/>
+Nov. 2016 - Apr. 2017, Intern @ UC Feed Recommendation Team
 
 ## Publications
 
 
-[→ Full list](/projects/)
+<!-- [→ Full list](/projects/) -->
 
 <ProjectCard hideBorder=true>
 
@@ -176,7 +182,7 @@ July 2018 - Now
   
 </ProjectCard>
 
-## Awards & Honors
+## Awards
 
 - Second prize in **ICDM 2019 Knowledge Graph Contest**.
 

@@ -1,7 +1,7 @@
 ---
 pageClass: about-page
 description: 'The biography and information about me.'
-avatar: /profile.jpg
+avatar: /profile.PNG
 head: 'Zhaopeng Qiu'
 info: 'Researcher at Tencent Jarvis Lab'
 interests: 'Interests: Recommendation, .'
