@@ -2,18 +2,14 @@
 pageClass: about-page
 description: 'The biography and information about me.'
 avatar: /profile.jpg
-head: 'Harry Potter'
-info: 'Student at Hogwarts School'
-interests: 'Interests: Quidditch and Wizard chess.'
+head: 'Zhaopeng Qiu'
+info: 'Researcher at Tencent Jarvis Lab'
+interests: 'Interests: Recommendation, .'
 socials:
 - title: github
-  link: https://github.com/mtobeiyf
-- title: linkedin
-  link: https://www.linkedin.com
-- title: instagram
-  link: https://www.instagram.com
+  link: https://github.com/zpqiu
 - title: email
-  link: 'mailto:harry[at]gmail.com'
+  link: 'mailto:zhaopengqiu[at]tencent.com'
 actions:
 - text: Projects
   link: /projects/
@@ -21,7 +17,7 @@ actions:
   link: https://github.com/mtobeiyf
 - text: CV
   link: /article/
-footer: Made with ♥ by Fing. Powered by VuePress
+footer: Made with ♥ by Zhaopeng Qiu. Powered by VuePress
 ---
 
 <AboutCard :frontmatter="$page.frontmatter" >

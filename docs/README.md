@@ -2,23 +2,20 @@
 pageClass: home-page
 # some data for the components
 
-name: Harry Potter
+name: Zhaopeng Qiu
 profile: /profile.jpg
 
 socials:
   - title: github
     icon: "/icons/github.svg"
-    link: https://github.com/mtobeiyf
-  - title: linkedin
-    icon: "/icons/linkedin-mono.svg"
-    link: https://www.linkedin.com
-  - title: instagram
-    icon: "/icons/instagram-mono.svg"
-    link: https://www.instagram.com
+    link: https://github.com/zpqiu
+  - title: google scholar
+    icon: "/icons/google-scholar.svg"
+    link: https://scholar.google.com/citations?user=xxDgpBYAAAAJ&hl=zh-CN
 
 cv: https://en.wikipedia.org/wiki/Harry_Potter
-bio: Student at Hogwarts School
-email: harry (at) hogwarts (dot) edu
+bio: Researcher at Tencent Jarvis Lab
+email: zhaopengqiu (at) tencent (dot) com
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
@@ -30,51 +27,158 @@ I attended [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org
 I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
 
 
-## News
+<!-- ## News
 
 - [Sept 1991] Attended Hogwarts
-- [July 1980] Born in Godric's Hollow, West Country, England, Great Britain
+- [July 1980] Born in Godric's Hollow, West Country, England, Great Britain -->
 
 
 ## Education & Experiences
 
-- **Hogwarts School of Witchcraft and Wizardry** <br/>
-Sept 1991 - 1997
+- **Tencet Jarvis Lab** <br/>
+July 2018 - Now
 
+- **Peking University** <br/>
+2015 - 2018
 
-## Projects
+- **Beihang University (BUAA)** <br/>
+2010 - 2014
+
+## Publications
 
 
 [→ Full list](/projects/)
 
-<ProjectCard image="/projects/1.png" hideBorder=true>
+<ProjectCard hideBorder=true>
 
-  **The Making of Harry Potter's Wand**
+  **[COLING'22] DeltaNet: Conditional Medical Report Generation for COVID-19 Diagnosis**
 
-  Harry P., Hermione G., *et al*
+  *Xian Wu, Shuxin Yang,* **Zhaopeng Qiu**, *Shen Ge, Yangtian Yan, Xingwang Wu, Yefeng Zheng, S. Kevin Zhou and Li Xiao*
   
-  Harry's wand was broken in 1997, but was repaired by him after the 1998 Battle of Hogwarts. Usually the repair of a wand is impossible, but with the use of the Elder Wand it was achievable.
-  
-  [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)]
+  The 29th International Conference on Computational Linguistics (Long Paper, Oral).
 
 </ProjectCard>
 
 <ProjectCard hideBorder=true>
 
-  **Harry Potter and the Deathly Hallows**
+  **[CIKM'22] Gromov-Wasserstein Guided Representation Learning for Cross-Domain Recommendation**
   
-  In the epilogue of Deathly Hallows, which is set 19 years after Voldemort's death, Harry and Ginny are a couple and have three children: James Sirius Potter, who has already been at Hogwarts for at least one year, Albus Severus Potter, who is starting his first year there, and Lily Luna Potter, who is two years away from her first year at the school.
+  *Xinhang Li,* **Zhaopeng Qiu**, *Xiangyu Zhao, Zihao Wang, Yong Zhang, Chunxiao Xing and Xian Wu*
 
-  [[Link](https://www.google.com)]
+  31st ACM International Conference on Information and Knowledge Management (Long Paper).
+
+</ProjectCard>
+
+<ProjectCard hideBorder=true>
+
+  **[KDD'22] DDR: Dialogue Based Doctor Recommendation for Online Medical Service**
+  
+  *Zhi Zheng*, **Zhaopeng Qiu**, *Hui Xiong, Xian Wu, Tong Xu, Enhong Chen, Xiangyu Zhao*
+
+  The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ADS Track, Long Paper).
+
+  [[PDF](https://doi.org/10.1145/3534678.3539201)]
+
+</ProjectCard>
+
+<ProjectCard hideBorder=true>
+
+  **[NAACL-Findings'22] Denoising Neural Network for News Recommendation with Positive and Negative Implicit Feedback**
+  
+  *Yunfan Hu*, **Zhaopeng Qiu**, *Xian Wu*
+
+  Findings of the Association for Computational Linguistics: NAACL 2022, Long Paper.
+
+  [[PDF](https://arxiv.org/pdf/2204.04397.pdf)] [[Code](https://github.com/chungdz/DRPN)]
+
+</ProjectCard>
+
+<ProjectCard hideBorder=true>
+
+  **[TKDD'22] Graph Neural News Recommendation with User Existing and Potential Interest Modeling**
+  
+  **Zhaopeng Qiu**, *Yunfan Hu, Xian Wu*
+
+  ACM Transactions on Knowledge Discovery from Data, Long Paper.
+
+  [[PDF](https://doi.org/10.1145/3511708)] [[Code](https://github.com/zpqiu/GREP)]
+
+</ProjectCard>
+
+<ProjectCard hideBorder=true>
+
+  **[WWW'22] Conditional Generation Net for Medication Recommendation**
+  
+  *Rui Wu*, **Zhaopeng Qiu**, *Jiacheng Jiang, Guilin Qi, Xian Wu*
+
+  The ACM Web Conference 2022 (Long Paper, Oral).
+
+  [[PDF](http://dl.acm.org/citation.cfm?id=3511936)] [[Code](https://github.com/BarryRun/COGNet)]
+
+</ProjectCard>
+
+<ProjectCard hideBorder=true>
+
+  **[WWW'22] CBR: Context Bias aware Recommendation for Debiasing User Modeling and Click Prediction**
+  
+  *Zhi Zheng*, **Zhaopeng Qiu**, *Tong Xu, X. Wu, Xiangyu Zhao, Enhong Chen, Hui Xiong*
+
+  The ACM Web Conference 2022 (Long Paper, Oral).
+
+  [[PDF](https://doi.org/10.1145/3485447.3512099)]
+
+</ProjectCard>
+
+<ProjectCard hideBorder=true>
+
+  **[AAAI'21] U-BERT: Pre-training User Representations for Improved Recommendation**
+  
+  **Zhaopeng Qiu**, *Xian Wu, Jingyue Gao, Wei Fan*
+
+  The Thirty-Fifth AAAI Conference on Artificial Intelligence (Long Paper, Oral).
+
+  [[PDF](https://ojs.aaai.org/index.php/AAAI/article/download/16557/16364)]
+
+</ProjectCard>
+
+<ProjectCard hideBorder=true>
+
+  **[COLING'20] Automatic Distractor Generation for Multiple Choice Questions in Standard Tests**
+  
+  **Zhaopeng Qiu**, *Xian Wu, Wei Fan*
+
+  The 28th International Conference on Computational Linguistics (Long Paper, Poster).
+
+  [[PDF](https://www.aclweb.org/anthology/2020.coling-main.189.pdf)]
+
+</ProjectCard>
+
+<ProjectCard hideBorder=true>
+
+  **[CIKM'19] Question Difficulty Prediction for Multiple Choice Problems in Medical Exams**
+  
+  **Zhaopeng Qiu**, *Xian Wu, Wei Fan*
+
+  The 28th ACM International Conference on Information and Knowledge Management (Long Paper, Oral).
+
+  [[PDF](https://dl.acm.org/doi/pdf/10.1145/3357384.3358013)] [[Code](https://github.com/zpqiu/DAN)]
 
 </ProjectCard>
 
 
+<ProjectCard hideBorder=true>
+
+  **[TMC'18] HyTasker: Hybrid Task Allocation in Mobile Crowd Sensing**
+  
+  *Jiangtao Wang, Feng Wang, Yasha Wang, Leye Wang*, **Zhaopeng Qiu**, *Daqing Zhang, Bin Guo, Q. Lv*
+
+  IEEE Transactions on Mobile Computing.
+  
+</ProjectCard>
+
 ## Awards & Honors
 
-### Contests
-
-- First place in **The Hogwarts House Cup**
+- Second prize in **ICDM 2019 Knowledge Graph Contest**.
 
 
 <!-- Custom style for this page -->
