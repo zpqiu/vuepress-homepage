@@ -22,7 +22,7 @@ email: zhaopengqiu (at) tencent (dot) com
 
 ## About Me
 
-I am Zhaopeng Qiu (邱昭鹏), a Senior Researcher in [Jarvis Lab](https://jarvislab.tencent.com/) of Tencent. I obtained Master in Computer Software and Theory from Peking University in 2018, under supervision of Prof. Yasha Wang. Before that, I obtained B.Sc in Software Engineering from Beihang University (BUAA) in 2014. My research works are focused on recommendation, NLP, and medical data mining.
+I am Zhaopeng Qiu (邱昭鹏), a Senior Researcher in [Jarvis Lab](https://jarvislab.tencent.com/) of Tencent. I obtained Master in Computer Software and Theory from Peking University in 2018, under supervision of Prof. Yasha Wang. Before that, I obtained Bachelor in Software Engineering from Beihang University (BUAA) in 2014. My research works are focused on recommendation, NLP, and medical data mining.
 
 
 <!-- ## News
@@ -38,7 +38,7 @@ I am Zhaopeng Qiu (邱昭鹏), a Senior Researcher in [Jarvis Lab](https://jarvi
 
   **Peking University**
 
-  2015 - 2018
+  Sept. 2015 - Jun. 2018
   
   Software Engineering Institute, School of Electronics Engineering and Computer Science
 
@@ -48,7 +48,7 @@ I am Zhaopeng Qiu (邱昭鹏), a Senior Researcher in [Jarvis Lab](https://jarvi
 
   **Beihang University (BUAA)**
 
-  2010 - 2014
+  Sept. 2010 - Jun. 2014
   
   College of Software
 
