@@ -33,16 +33,40 @@ I am Zhaopeng Qiu (邱昭鹏), a Senior Researcher in [Jarvis Lab](https://jarvi
 
 ## Education
 
-- **Peking University** <br/>
-2015 - 2018, Software Engineering Institute, School of Electronics Engineering and Computer Science
 
-- **Beihang University (BUAA)** <br/>
-2010 - 2014, College of Software
+<ExpCard hideBorder=true image="/projects/pku.png">
 
-## Work Experiences
+  **Peking University**
 
-- **Tencent** <br/>
-Jul. 2018 - Present, Senior Researcher @ Tencent Jarvis Lab
+  2015 - 2018
+  
+  Software Engineering Institute, School of Electronics Engineering and Computer Science
+
+</ExpCard>
+
+<ExpCard hideBorder=true image="/projects/buaa.png">
+
+  **Beihang University (BUAA)**
+
+  2010 - 2014
+  
+  College of Software
+
+</ExpCard>
+
+## Work Experience
+
+<ExpCard hideBorder=true image="/projects/Tencent.png">
+
+  **Tencent**
+
+  Jul. 2018 - Present
+  
+  Senior Researcher @ Tencent Jarvis Lab
+
+</ExpCard>
+
+## Internships
 
 - **Microsoft** <br/>
 Apr. 2017 - Oct. 2017, Intern @ XiaoIce Team
