@@ -179,7 +179,7 @@ Nov. 2016 - Apr. 2017, Intern @ UC Feed Recommendation Team
 
   The 28th International Conference on Computational Linguistics (Long Paper, Poster).
 
-  [[PDF](https://www.aclweb.org/anthology/2020.coling-main.189.pdf)]
+  [[PDF](https://www.aclweb.org/anthology/2020.coling-main.189.pdf)] [[Code](https://github.com/zpqiu/EDGE)]
 
 </ProjectCard>
 
