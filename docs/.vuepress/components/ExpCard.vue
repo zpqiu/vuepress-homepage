@@ -21,9 +21,9 @@ export default {
 .md-exp-card
   background-color $frontColor
   margin-top 1em
-  min-height 60px
+  min-height 50px
   display grid
-  grid: auto-flow dense / 240px 360px 1fr;
+  grid: auto-flow dense / 240px 400px 1fr;
   flex-direction row
   align-items: center
   .exp-card-image
