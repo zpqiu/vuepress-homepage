@@ -57,6 +57,7 @@ July 2018 - Now
   
   The 29th International Conference on Computational Linguistics (Long Paper, Oral).
 
+  [[PDF](https://aclanthology.org/2022.coling-1.261.pdf)]
 </ProjectCard>
 
 <ProjectCard hideBorder=true>
@@ -67,6 +68,7 @@ July 2018 - Now
 
   31st ACM International Conference on Information and Knowledge Management (Long Paper).
 
+  [[PDF](https://dl.acm.org/doi/pdf/10.1145/3511808.3557338)]
 </ProjectCard>
 
 <ProjectCard hideBorder=true>
