@@ -212,6 +212,13 @@ Nov. 2016 - Apr. 2017, Intern @ UC Feed Recommendation Team
 
 - Second prize in **ICDM 2019 Knowledge Graph Contest**.
 
+## Academic Services
+
+- **Conference PC Member:**
+  - ACL: 2023
+  - IJCAI: 2023
+  - WWW: 2023
+  - COLING: 2022
 
 <!-- Custom style for this page -->
 
