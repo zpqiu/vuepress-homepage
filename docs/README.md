@@ -81,6 +81,18 @@ Nov. 2016 - Apr. 2017, Intern @ UC Feed Recommendation Team
 
 <ProjectCard hideBorder=true>
 
+  **[TOIS'23] Conditional Cross-Platform User Engagement Prediction**
+
+  *Xinhang Li,* **Zhaopeng Qiu**, *Jiacheng Jiang, Yong Zhang, Chunxiao Xing and Xian Wu*
+  
+  The ACM Transactions on Information Systems.
+
+  <!-- [[PDF](https://aclanthology.org/2022.coling-1.261.pdf)] -->
+</ProjectCard>
+
+
+<ProjectCard hideBorder=true>
+
   **[COLING'22] DeltaNet: Conditional Medical Report Generation for COVID-19 Diagnosis**
 
   *Xian Wu, Shuxin Yang,* **Zhaopeng Qiu**, *Shen Ge, Yangtian Yan, Xingwang Wu, Yefeng Zheng, S. Kevin Zhou and Li Xiao*
