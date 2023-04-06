@@ -121,7 +121,7 @@ Nov. 2016 - Apr. 2017, Intern @ UC Feed Recommendation Team
 
   31st ACM International Conference on Information and Knowledge Management (Long Paper).
 
-  [[PDF](https://dl.acm.org/doi/pdf/10.1145/3511808.3557338)]
+  [[PDF](https://dl.acm.org/doi/pdf/10.1145/3511808.3557338)] [[Code](https://github.com/HestiaSky/GWCDR)]
 </ProjectCard>
 
 <ProjectCard hideBorder=true>
