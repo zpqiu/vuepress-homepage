@@ -81,13 +81,24 @@ Nov. 2016 - Apr. 2017, Intern @ UC Feed Recommendation Team
 
 <ProjectCard hideBorder=true>
 
+  **[SIGIR'23] Distributionally Robust Sequential Recommnedation**
+
+  *Rui Zhou, Xian Wu,* **Zhaopeng Qiu**, *Yefeng Zheng and Xu Chen*
+  
+  The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval.
+
+  <!-- [[PDF](https://aclanthology.org/2022.coling-1.261.pdf)] -->
+</ProjectCard>
+
+<ProjectCard hideBorder=true>
+
   **[TOIS'23] Conditional Cross-Platform User Engagement Prediction**
 
   *Xinhang Li,* **Zhaopeng Qiu**, *Jiacheng Jiang, Yong Zhang, Chunxiao Xing and Xian Wu*
   
   The ACM Transactions on Information Systems.
 
-  <!-- [[PDF](https://aclanthology.org/2022.coling-1.261.pdf)] -->
+  [[PDF](https://dl.acm.org/doi/pdf/10.1145/3589226)]
 </ProjectCard>
 
 
