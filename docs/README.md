@@ -81,6 +81,24 @@ Nov. 2016 - Apr. 2017, Intern @ UC Feed Recommendation Team
 
 <ProjectCard hideBorder=true>
 
+  **[Pre-Print] A Survey on Large Language Models for Recommendation**
+
+  *Likang Wu\*, Zhi Zheng\*,* **Zhaopeng Qiu\***, *Hao Wang, Hongchao Gu, Tingjia Shen, Chuan Qin, Chen Zhu, Hengshu Zhu, Qi Liu, Hui Xiong, Enhong Chen*
+
+  [[PDF](https://arxiv.org/abs/2305.19860)]
+</ProjectCard>
+
+<ProjectCard hideBorder=true>
+
+  **[Pre-Print] Qualifying Chinese Medical Licensing Examination with Knowledge Enhanced Generative Pre-training Model**
+
+  *Jiageng Wu, Xian Wu,* **Zhaopeng Qiu**, *Minghui Li, Yefeng Zheng, Jie Yang*
+
+  [[PDF](https://arxiv.org/abs/2305.10163)]
+</ProjectCard>
+
+<ProjectCard hideBorder=true>
+
   **[SIGIR'23] Distributionally Robust Sequential Recommnedation**
 
   *Rui Zhou, Xian Wu,* **Zhaopeng Qiu**, *Yefeng Zheng and Xu Chen*
