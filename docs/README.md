@@ -78,12 +78,13 @@ Nov. 2016 - Apr. 2017, Intern @ UC Feed Recommendation Team
 
 
 <!-- [→ Full list](/projects/) -->
+*\* → Equal contribution; § → The intern under my supervision*
 
 <ProjectCard hideBorder=true>
 
   **[Pre-Print] A Survey on Large Language Models for Recommendation**
 
-  *Likang Wu\*, Zhi Zheng\*,* **Zhaopeng Qiu\***, *Hao Wang, Hongchao Gu, Tingjia Shen, Chuan Qin, Chen Zhu, Hengshu Zhu, Qi Liu, Hui Xiong, Enhong Chen*
+  *Likang Wu§\*, Zhi Zheng§\*,* **Zhaopeng Qiu\***, *Hao Wang, Hongchao Gu, Tingjia Shen, Chuan Qin, Chen Zhu, Hengshu Zhu, Qi Liu, Hui Xiong, Enhong Chen*
 
   [[PDF](https://arxiv.org/abs/2305.19860)]
 </ProjectCard>
@@ -112,7 +113,7 @@ Nov. 2016 - Apr. 2017, Intern @ UC Feed Recommendation Team
 
   **[TOIS'23] Conditional Cross-Platform User Engagement Prediction**
 
-  *Xinhang Li,* **Zhaopeng Qiu**, *Jiacheng Jiang, Yong Zhang, Chunxiao Xing and Xian Wu*
+  *Xinhang Li§,* **Zhaopeng Qiu**, *Jiacheng Jiang, Yong Zhang, Chunxiao Xing and Xian Wu*
   
   The ACM Transactions on Information Systems.
 
@@ -135,7 +136,7 @@ Nov. 2016 - Apr. 2017, Intern @ UC Feed Recommendation Team
 
   **[CIKM'22] Gromov-Wasserstein Guided Representation Learning for Cross-Domain Recommendation**
   
-  *Xinhang Li,* **Zhaopeng Qiu**, *Xiangyu Zhao, Zihao Wang, Yong Zhang, Chunxiao Xing and Xian Wu*
+  *Xinhang Li§,* **Zhaopeng Qiu**, *Xiangyu Zhao, Zihao Wang, Yong Zhang, Chunxiao Xing and Xian Wu*
 
   31st ACM International Conference on Information and Knowledge Management (Long Paper).
 
@@ -146,7 +147,7 @@ Nov. 2016 - Apr. 2017, Intern @ UC Feed Recommendation Team
 
   **[KDD'22] DDR: Dialogue Based Doctor Recommendation for Online Medical Service**
   
-  *Zhi Zheng*, **Zhaopeng Qiu**, *Hui Xiong, Xian Wu, Tong Xu, Enhong Chen, Xiangyu Zhao*
+  *Zhi Zheng§*, **Zhaopeng Qiu**, *Hui Xiong, Xian Wu, Tong Xu, Enhong Chen, Xiangyu Zhao*
 
   The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ADS Track, Long Paper).
 
@@ -158,7 +159,7 @@ Nov. 2016 - Apr. 2017, Intern @ UC Feed Recommendation Team
 
   **[NAACL-Findings'22] Denoising Neural Network for News Recommendation with Positive and Negative Implicit Feedback**
   
-  *Yunfan Hu*, **Zhaopeng Qiu**, *Xian Wu*
+  *Yunfan Hu§*, **Zhaopeng Qiu**, *Xian Wu*
 
   Findings of the Association for Computational Linguistics: NAACL 2022, Long Paper.
 
@@ -170,7 +171,7 @@ Nov. 2016 - Apr. 2017, Intern @ UC Feed Recommendation Team
 
   **[TKDD'22] Graph Neural News Recommendation with User Existing and Potential Interest Modeling**
   
-  **Zhaopeng Qiu**, *Yunfan Hu, Xian Wu*
+  **Zhaopeng Qiu**, *Yunfan Hu§, Xian Wu*
 
   ACM Transactions on Knowledge Discovery from Data, Long Paper.
 
@@ -182,7 +183,7 @@ Nov. 2016 - Apr. 2017, Intern @ UC Feed Recommendation Team
 
   **[WWW'22] Conditional Generation Net for Medication Recommendation**
   
-  *Rui Wu*, **Zhaopeng Qiu**, *Jiacheng Jiang, Guilin Qi, Xian Wu*
+  *Rui Wu§*, **Zhaopeng Qiu**, *Jiacheng Jiang, Guilin Qi, Xian Wu*
 
   The ACM Web Conference 2022 (Long Paper, Oral).
 
@@ -194,7 +195,7 @@ Nov. 2016 - Apr. 2017, Intern @ UC Feed Recommendation Team
 
   **[WWW'22] CBR: Context Bias aware Recommendation for Debiasing User Modeling and Click Prediction**
   
-  *Zhi Zheng*, **Zhaopeng Qiu**, *Tong Xu, X. Wu, Xiangyu Zhao, Enhong Chen, Hui Xiong*
+  *Zhi Zheng§*, **Zhaopeng Qiu**, *Tong Xu, X. Wu, Xiangyu Zhao, Enhong Chen, Hui Xiong*
 
   The ACM Web Conference 2022 (Long Paper, Oral).
 
@@ -206,7 +207,7 @@ Nov. 2016 - Apr. 2017, Intern @ UC Feed Recommendation Team
 
   **[AAAI'21] U-BERT: Pre-training User Representations for Improved Recommendation**
   
-  **Zhaopeng Qiu**, *Xian Wu, Jingyue Gao, Wei Fan*
+  **Zhaopeng Qiu**, *Xian Wu, Jingyue Gao§, Wei Fan*
 
   The Thirty-Fifth AAAI Conference on Artificial Intelligence (Long Paper, Oral).
 
