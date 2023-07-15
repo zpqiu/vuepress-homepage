@@ -66,13 +66,13 @@ I am Zhaopeng Qiu (邱昭鹏), a Senior Researcher in Career Science Lab of BOSS
 
 </ExpCard>
 
-## Internships
+<!-- ## Internships
 
 - **Microsoft** <br/>
 Apr. 2017 - Oct. 2017, Intern @ XiaoIce Team
 
 - **Alibaba** <br/>
-Nov. 2016 - Apr. 2017, Intern @ UC Feed Recommendation Team
+Nov. 2016 - Apr. 2017, Intern @ UC Feed Recommendation Team -->
 
 ## Publications
 
@@ -84,7 +84,7 @@ Nov. 2016 - Apr. 2017, Intern @ UC Feed Recommendation Team
 
   **[Pre-Print] Generative Job Recommendations with Large Language Model**
 
-  *Zhi Zheng§\*,* **Zhaopeng Qiu\***, *Xiao Hu, Likang Wu§, Hengshu Zhu, Hui Xiong*
+  *<span class="underlined">Zhi Zheng</span>\*,* **Zhaopeng Qiu\***, *Xiao Hu, Likang Wu§, Hengshu Zhu, Hui Xiong*
 
   [[PDF](https://arxiv.org/pdf/2307.02157)]
 </ProjectCard> 
@@ -301,6 +301,9 @@ Nov. 2016 - Apr. 2017, Intern @ UC Feed Recommendation Team
         max-height 120px
     .card-content p
       -webkit-margin-after 0.2em
+
+.underlined
+  text-decoration underline
 
 @media (max-width: 419px)
   .theme-container.home-page .page
