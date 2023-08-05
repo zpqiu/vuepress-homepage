@@ -79,11 +79,12 @@ Nov. 2016 - Apr. 2017, Intern @ UC Feed Recommendation Team -->
 
 <!-- [→ Full list](/projects/) -->
 *\* → Equal contribution; <span class="underlined">The intern under my supervision</span>*
+
 <ProjectCard hideBorder=true>
 
   **[CIKM'23] REST: Drug-Drug Interaction Prediction via Reinforced Student-Teacher Curriculum Learning**
 
-  *<span class="underlined">Xinhang Li</span>,* **Zhaopeng Qiu**, *Xiangyu Zhao, Yong Zhang, Chunxiao Xing, Xian Wu	*
+  *<span class="underlined">Xinhang Li</span>,* **Zhaopeng Qiu**, *Xiangyu Zhao, Yong Zhang, Chunxiao Xing, Xian Wu*
 
   <!-- [[PDF](https://arxiv.org/pdf/2307.02157)] -->
 </ProjectCard> 
