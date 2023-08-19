@@ -3,7 +3,7 @@ pageClass: home-page
 # some data for the components
 
 name: Zhaopeng Qiu
-profile: /profile.PNG
+profile: /profile_real.png
 
 socials:
   - title: github
